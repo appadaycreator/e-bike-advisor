@@ -3,7 +3,7 @@
   "short_name": "e-bike-advis",
   "start_url": "/e-bike-advisor/",
   "display": "standalone",
-  "background_color": "#6366f1",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "scope": "/e-bike-advisor/"
 }
