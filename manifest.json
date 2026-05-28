@@ -1,8 +1,9 @@
 {
   "name": "E Bike Advisor",
   "short_name": "e-bike-advis",
-  "start_url": "/",
+  "start_url": "/e-bike-advisor/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/e-bike-advisor/"
 }
